@@ -11,6 +11,7 @@ function phoneticLookup(val) {
     "echo": "Easy",
     "foxtrot": "Frank"
   }
+  // converting from a switch statement to a lookup format
   // switch(val) {
   //   case "alpha":
   //     result = "Adams";
